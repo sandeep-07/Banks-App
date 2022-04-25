@@ -1,0 +1,25 @@
+tr
+{
+  line-height: 50px;
+}
+
+a{
+  text-decoration: none;
+}
+.detail-container{
+  width: 35%;
+}
+.detail-item{
+  background-color: black;
+}
+.detail-label{
+  width:30%;
+
+
+  color: #fff;
+
+}
+.detail-value{
+  width:70%;
+
+}
